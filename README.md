@@ -1,7 +1,7 @@
 # Image-Editor-Application
 Made by: ***[Mohamed Ahmed](https://github.com/3ab2wy1911) -[Youssef Ahmed](https://github.com/youseffahmedd) - [Yara Salah](https://github.com/yarasalah448)*** 
 ## Idea of the Program
-* It's a simple  program which contains 12 diferrent filters that can be applied on bit map images.
+* It's a simple  program that contains 12  different filters that can be applied on bit map images.
 * There are two versions of the program which are:
 1. **Grey images editor.**
 2. **RGB images editor.**
